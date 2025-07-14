@@ -1,1 +1,4 @@
 # GenAI
+https://www.coursera.org/learn/generative-ai-for-data-science/lecture/QFkgL/what-is-generative-ai
+- generative AI is not just a tool for analyzing data, it is a pioneering force that transforms raw data into innovative solutions, offering unprecedented opportunities to enhance and expand the realms of knowledge and creativity.
+- explore the applications and advantages of generative AI in the field of data science. Identifying specific use cases in marketing and advertising, such as data augmentation, feature engineering, anomaly detection, and generative modeling. learn to integrate complex data sources and automate marketing responses, fine-tune and deploy large language models, and analyze the data security and privacy implications associated with GenAI applications. Additionally, you will delve into the complex issues of bias and data privacy that accompany leveraging generative models for your business. 
