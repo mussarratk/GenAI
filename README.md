@@ -28,5 +28,11 @@
 
 <img width="1309" height="632" alt="image" src="https://github.com/user-attachments/assets/0359e4e0-2baf-44e8-8fff-9d72080d901b" />
 
-<img width="1158" height="519" alt="image" src="https://github.com/user-attachments/assets/b340a73e-5b07-4c2a-8a57-913b0c85b172" />
+# Real Time Deployment of My Model (Summarizer) - Model Serving -[8. Access Models using Databricks, 73.]
+
+<img width="1353" height="521" alt="image" src="https://github.com/user-attachments/assets/b84a063e-ca74-4c48-a3e9-1c86940df366" />
+
+<img width="1356" height="612" alt="image" src="https://github.com/user-attachments/assets/3b13231a-81f3-4ab7-9c9e-06c6828cd920" />
+
+<img width="1346" height="594" alt="image" src="https://github.com/user-attachments/assets/bce48da8-8f22-472b-bd1f-77b0ca3fdbda" />
 
