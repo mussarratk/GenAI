@@ -28,6 +28,9 @@
 
 <img width="1309" height="632" alt="image" src="https://github.com/user-attachments/assets/0359e4e0-2baf-44e8-8fff-9d72080d901b" />
 
+<img width="1165" height="457" alt="image" src="https://github.com/user-attachments/assets/941c0781-3971-4bfe-8067-60624f4a1421" />
+
+
 # Real Time Deployment of My Model (Summarizer) - Model Serving -[8. Access Models using Databricks, 73.]
 
 <img width="1353" height="521" alt="image" src="https://github.com/user-attachments/assets/b84a063e-ca74-4c48-a3e9-1c86940df366" />
